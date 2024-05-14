@@ -23,7 +23,7 @@ Determining an individual's Prakriti, a fundamental concept in Ayurveda has long
 
 ![FNN Architecture](./Assets/Fnn%20architecture.png)
 
-## Watch the Output video 👉 [Video](https://youtu.be/sECt1T-hV10)
+
 
 ## Installation Guide
 
@@ -169,4 +169,4 @@ npm run dev
 
 You have successfully setup your project.
 
-## Author: Prathamesh Dhande
+## Author: Vijaya Rani
